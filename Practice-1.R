@@ -4,7 +4,7 @@
 
 read.csv(file.choose())
 
-# Will get popup windoe for the selection of file than click import it's DONE
+# Will get popup window for the selection of file than click import it's DONE
 
 #2nd step,will ASSIGN as mba
 mba=read.csv(file.choose())
