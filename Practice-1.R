@@ -77,6 +77,4 @@ sd(mba$gmat)
 # COvariance = Variance will get same result as variance (one variable square by formula)
 cov(mba$gmat,mba$gmat)
 
-# inbuild data review
-data(Titanic)
-View(Titanic)
+
